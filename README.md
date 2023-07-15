@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @toomucharsh
-- 👀 I’m interested in Digital Design and XR Production..
-- 🌱 I’m currently learning Virtual Reality Production.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Digital Design and XR Production
+- 🌱 I’m currently learning Virtual Reality Production
 - 📫 How to reach me +1 905 783 8693 / toomucharsh@gmail.com
 
 <!---
